@@ -3,7 +3,7 @@ Contributors:      DestinyRescueUS, iandunn
 Donate link:       http://destinyrescue.org
 Tags:              Destiny Rescue, slavery, human trafficking, children, human rights, social justice, banner, badge, banner
 Requires at least: 2.8
-Tested up to:      3.8
+Tested up to:      4.2
 Stable tag:        1.0
 License:           GPLv2 or Later
 
